@@ -2,12 +2,21 @@ import requests
 import re
 
 
-def find_name(text: str) -> str:
+def getPage(url: str) -> requests.models.Response:
+    if isPageExist(url):
+        return requests.get(url)
+    else:
+        return None
+
+
+def getName(url: str) -> str:
+    text = getPage(url).text
     match = re.search('itemprop=\"name\">', text)
     return text[match.end():re.compile('</').search(text, match.end()).start()].lstrip().rstrip()
 
 
-def find_price(text: str) -> int:
+def getPrice(url: str) -> int:
+    text = getPage(url).text
     match = re.search(r"\"game_area_purchase_game", text)
     if match is not None:
         discount_match = re.compile(r"discount_final_price\">").search(text, match.end())
@@ -22,7 +31,7 @@ def find_price(text: str) -> int:
     return price
 
 
-def is_page_exist(url: str) -> bool:
+def isPageExist(url: str) -> bool:
     r = requests.head(url)
     if r.status_code == 200 or r.status_code == 302:
         return True
@@ -30,7 +39,7 @@ def is_page_exist(url: str) -> bool:
         return False
 
 
-def find_games_on_the_page(url: str) -> set:
+def getIdsOnPage(url: str) -> set:
     r = requests.get(url)
     existed_pages = set(re.compile(r"app/([0-9]+)").findall(r.text))
     return existed_pages
@@ -38,13 +47,20 @@ def find_games_on_the_page(url: str) -> set:
 
 # URL = "http://store.steampowered.com/app/440/?cc=us" #use ?cc=us after the number of the game to get all the currencies
 # URL = "http://store.steampowered.com/app/435150"
+url = "http://store.steampowered.com/app/"
+
 existed_pages = set()
-existed_pages = set(find_games_on_the_page(r"http://store.steampowered.com"))
+existed_pages = set(getIdsOnPage(r"http://store.steampowered.com"))
 print(existed_pages)
 
-game_list = dict()
+game_list = list()  # list of dicts# [{"id": "<number>", "name": "<get_name()>", "price": "<get_price()>"}]
 
-print(is_page_exist(r'http://store.steampowered.com/app/435150'))
+for page_id in existed_pages:
+    game_list.append(
+        {"id": page_id, "name": getName(url + str(page_id)), "price": getPrice(url + str(page_id))}
+    )
+
+print(game_list)
 
 '''
 url = r"http://store.steampowered.com/app/"
