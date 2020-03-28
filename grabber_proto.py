@@ -11,29 +11,42 @@ def getPage(url: str) -> requests.models.Response:
 
 def getName(url: str) -> str:
     text = getPage(url).text
-    match = re.search('itemprop=\"name\">', text)
-    return text[match.end():re.compile('</').search(text, match.end()).start()].lstrip().rstrip()
+
+    match = re.compile(r"<title>(.+)<\/title>").search(text)
+    return match.group(1)
 
 
-def getPrice(url: str) -> int:
-    text = getPage(url).text
-    match = re.search(r"\"game_area_purchase_game", text)
-    if match is not None:
-        discount_match = re.compile(r"discount_final_price\">").search(text, match.end())
-        price_match = re.compile(r"game_purchase_price price\">").search(text, match.end())
-        if discount_match.start() < price_match.start():
-            # if discount price is the first option choose discount price
-            price = text[
-                    discount_match.end():re.compile('</').search(text, discount_match.end()).start()].lstrip().rstrip()
+def getPrice(url: str) -> str:
+    try:
+        text = getPage(url).text
+    except:
+        print("Cannot retrieve text from " + url)
+        return "Page does not exist"
+    try:
+        match = re.compile(r"This.game.is.not.yet.available.on.Steam").search(text)
+        if match is not None:
+            return r"Not yet released"
         else:
-            # if usual price is the first option choose usual price
-            price = text[price_match.end():re.compile('</').search(text, price_match.end()).start()].lstrip().rstrip()
-    return price
+            match = re.compile(r"game_area_purchase_platform").search(text)
+            if match is not None:
+                price_match = re.compile(r"game_purchase_price\s+price").search(text, pos=match.end())
+                discount_match = re.compile(r"discount_final_price").search(text, pos=match.end())
+                if discount_match.start() < price_match.start() or price_match is None:
+                    # if discount price is the first option choose discount price
+                    price = re.compile(r"([0-9]+,[0-9]+[^\s]+)").search(text, discount_match.end()).lstrip().rstrip()
+                elif discount_match.start() > price_match.start() or discount_match is None:
+                    # if usual price is the first option choose usual price
+                    price = re.compile(r"([0-9]+,[0-9]+[^\s]+)").search(text, price_match.end()).group(
+                        1).lstrip().rstrip()
+        return price
+    except:
+        print("Check getPrice " + str(url))
+        return r"Cannot retrieve the price"
 
 
 def isPageExist(url: str) -> bool:
     r = requests.head(url)
-    if r.status_code == 200 or r.status_code == 302:
+    if r.status_code == 200:
         return True
     else:
         return False
@@ -41,13 +54,23 @@ def isPageExist(url: str) -> bool:
 
 def getIdsOnPage(url: str) -> set:
     r = requests.get(url)
-    existed_pages = set(re.compile(r"app/([0-9]+)").findall(r.text))
-    return existed_pages
+    pages_list = set(re.compile(r"app[/\\]([0-9]+)").findall(r.text))
+    return pages_list
+
+
+def getCcPage(url: str) -> requests.models.Response:
+    return None
 
 
 # URL = "http://store.steampowered.com/app/440/?cc=us" #use ?cc=us after the number of the game to get all the currencies
 # URL = "http://store.steampowered.com/app/435150"
 url = "http://store.steampowered.com/app/"
+
+print(getPrice(url + "114693x"))
+
+# print(getIdsOnPage(url + "1146930"))
+
+'''
 
 existed_pages = set()
 existed_pages = set(getIdsOnPage(r"http://store.steampowered.com"))
@@ -62,6 +85,7 @@ for page_id in existed_pages:
 
 print(game_list)
 
+'''
 '''
 url = r"http://store.steampowered.com/app/"
 i = 0
