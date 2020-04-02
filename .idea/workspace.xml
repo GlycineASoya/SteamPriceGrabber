@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fb525a9-313d-4f5e-9ecf-c95a9b39c914" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Ilya.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grabber_proto.py" beforeDir="false" afterPath="$PROJECT_DIR$/grabber_proto.py" afterDir="false" />
     </list>
@@ -29,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
@@ -86,38 +88,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="597" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1585342900168" />
-    <state width="1344" height="194" key="GridCell.Tab.0.bottom" timestamp="1585599046962">
+    <state width="1344" height="194" key="GridCell.Tab.0.bottom" timestamp="1585855686078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585599046962" />
-    <state width="1344" height="194" key="GridCell.Tab.0.center" timestamp="1585599046962">
+    <state width="1344" height="194" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585855686078" />
+    <state width="1344" height="194" key="GridCell.Tab.0.center" timestamp="1585855686078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585599046962" />
-    <state width="1344" height="194" key="GridCell.Tab.0.left" timestamp="1585599046962">
+    <state width="1344" height="194" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585855686078" />
+    <state width="1344" height="194" key="GridCell.Tab.0.left" timestamp="1585855686078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585599046962" />
-    <state width="1344" height="194" key="GridCell.Tab.0.right" timestamp="1585599046962">
+    <state width="1344" height="194" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585855686078" />
+    <state width="1344" height="194" key="GridCell.Tab.0.right" timestamp="1585855686078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585599046962" />
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1585599048406">
+    <state width="1344" height="194" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585855686078" />
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1585855672081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585599048406" />
-    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1585599048406">
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585855672081" />
+    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1585855672081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585599048406" />
-    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1585599048406">
+    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585855672081" />
+    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1585855672081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585599048406" />
-    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1585599048406">
+    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585855672081" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1585855672081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585599048406" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585855672081" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1584893268883">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -140,22 +142,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/grabber_proto.py</url>
-          <line>50</line>
+          <line>48</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/grabber_proto.py</url>
-          <line>91</line>
+          <line>109</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/grabber_proto.py</url>
-          <line>87</line>
+          <line>105</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/grabber_proto.py</url>
-          <line>7</line>
+          <line>6</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
@@ -167,6 +169,7 @@
         <watch expression="url" />
         <watch expression="page" />
         <watch expression="page.url" language="Python" />
+        <watch expression="cc_list" />
       </configuration>
     </watches-manager>
   </component>
