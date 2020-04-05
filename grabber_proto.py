@@ -101,9 +101,19 @@ cc_list = sorted(
      "TM", "TC", "TV", "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU", "VE", "VN", "VG", "VI", "WF", "EH", "YE",
      "ZM", "ZW"})
 
-url = "http://store.steampowered.com/app/"
+'''
 
-# print(getPrice(getPage(url + "275850/?cc=AD")))
+search_pagination_left">
+                showing 1 - 50 of 72266
+check this
+https://store.steampowered.com/search/?sort_by=_ASC&ignore_preferences=1&page=<number>
+
+'''
+
+
+url = "http://store.steampowered.com/app/search"
+
+print(getPage(url))
 
 # printge(url + "1146930"))
 
