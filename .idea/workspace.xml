@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fb525a9-313d-4f5e-9ecf-c95a9b39c914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/grabber_proto2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grabber_proto.py" beforeDir="false" afterPath="$PROJECT_DIR$/grabber_proto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grabber_proto2.py" beforeDir="false" afterPath="$PROJECT_DIR$/grabber_proto2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,38 +116,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="597" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1585342900168" />
-    <state width="1344" height="171" key="GridCell.Tab.0.bottom" timestamp="1586099689276">
+    <state width="1344" height="194" key="GridCell.Tab.0.bottom" timestamp="1586106456398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586099689276" />
-    <state width="1344" height="171" key="GridCell.Tab.0.center" timestamp="1586099689276">
+    <state width="1344" height="194" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586106456398" />
+    <state width="1344" height="194" key="GridCell.Tab.0.center" timestamp="1586106456398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586099689276" />
-    <state width="1344" height="171" key="GridCell.Tab.0.left" timestamp="1586099689276">
+    <state width="1344" height="194" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586106456398" />
+    <state width="1344" height="194" key="GridCell.Tab.0.left" timestamp="1586106456398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586099689276" />
-    <state width="1344" height="171" key="GridCell.Tab.0.right" timestamp="1586099689276">
+    <state width="1344" height="194" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586106456398" />
+    <state width="1344" height="194" key="GridCell.Tab.0.right" timestamp="1586106456398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586099689276" />
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1586095792749">
+    <state width="1344" height="194" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586106456398" />
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1586106456399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586095792749" />
-    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1586095792749">
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586106456399" />
+    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1586106456399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586095792749" />
-    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1586095792749">
+    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586106456399" />
+    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1586106456398">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586095792749" />
-    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1586095792749">
+    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586106456398" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1586106456399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586095792749" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586106456399" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1584893268883">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -167,14 +166,22 @@
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586012037670" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/grabber_proto2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="game_list" />
-        <watch expression="r.url" language="Python" />
-        <watch expression="url" />
-        <watch expression="page" />
-        <watch expression="page.url" language="Python" />
-        <watch expression="cc_list" />
+        <watch expression="x" />
+        <watch expression="x[0]" language="Python" />
+        <watch expression="__py_debug_temp_var_1242439521" />
+        <watch expression="prices" />
+        <watch expression="result" />
       </configuration>
     </watches-manager>
   </component>
