@@ -1,0 +1,1294 @@
+<!-- List Items -->
+		<a href="https://store.steampowered.com/app/396420/_/?snr=1_7_7_230_150_1"  data-ds-appid="396420" data-ds-itemkey="App_396420" data-ds-tagids="[113]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:396420,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/396420/capsule_sm_120.jpg?t=1545256825" srcset="https://steamcdn-a.akamaihd.net/steam/apps/396420/capsule_sm_120.jpg?t=1545256825 1x, https://steamcdn-a.akamaihd.net/steam/apps/396420/capsule_231x87.jpg?t=1545256825 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title"></span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">1 Nov, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;70% of the 34 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        Free To Play                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/409050/_/?snr=1_7_7_230_150_1"  data-ds-appid="409050" data-ds-itemkey="App_409050" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:409050,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/409050/capsule_sm_120.jpg?t=1467079945" srcset="https://steamcdn-a.akamaihd.net/steam/apps/409050/capsule_sm_120.jpg?t=1467079945 1x, https://steamcdn-a.akamaihd.net/steam/apps/409050/capsule_231x87.jpg?t=1467079945 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title"></span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/409080/_/?snr=1_7_7_230_150_1"  data-ds-appid="409080" data-ds-itemkey="App_409080" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:409080,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/409080/capsule_sm_120.jpg?t=1467079975" srcset="https://steamcdn-a.akamaihd.net/steam/apps/409080/capsule_sm_120.jpg?t=1467079975 1x, https://steamcdn-a.akamaihd.net/steam/apps/409080/capsule_231x87.jpg?t=1467079975 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title"></span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/317160/_/?snr=1_7_7_230_150_1"  data-ds-appid="317160" data-ds-itemkey="App_317160" data-ds-tagids="[19,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:317160,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/317160/capsule_sm_120.jpg?t=1526438811" srcset="https://steamcdn-a.akamaihd.net/steam/apps/317160/capsule_sm_120.jpg?t=1526438811 1x, https://steamcdn-a.akamaihd.net/steam/apps/317160/capsule_231x87.jpg?t=1526438811 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title"></span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">27 Aug, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        Free Demo                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/449940/_That_Bastard_Is_Trying_To_Steal_Our_Gold/?snr=1_7_7_230_150_1"  data-ds-appid="449940" data-ds-itemkey="App_449940" data-ds-tagids="[492,19,21,597,10397]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:449940,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/449940/capsule_sm_120.jpg?t=1492053610" srcset="https://steamcdn-a.akamaihd.net/steam/apps/449940/capsule_sm_120.jpg?t=1492053610 1x, https://steamcdn-a.akamaihd.net/steam/apps/449940/capsule_231x87.jpg?t=1492053610 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">! That Bastard Is Trying To Steal Our Gold !</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">4 Mar, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;41% of the 17 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1449">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        14,49zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/866510/AnyWay/?snr=1_7_7_230_150_1"  data-ds-appid="866510" data-ds-itemkey="App_866510" data-ds-tagids="[21,597,492,3798,3810,1756,1625]" data-ds-crtrids="[36580876]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:866510,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/866510/capsule_sm_120.jpg?t=1585702770" srcset="https://steamcdn-a.akamaihd.net/steam/apps/866510/capsule_sm_120.jpg?t=1585702770 1x, https://steamcdn-a.akamaihd.net/steam/apps/866510/capsule_231x87.jpg?t=1585702770 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">!AnyWay!</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">6 Jun, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;64% of the 67 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="719">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        7,19zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/870990/LABrpgUP/?snr=1_7_7_230_150_1"  data-ds-appid="870990" data-ds-itemkey="App_870990" data-ds-tagids="[21,492,597,122]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:870990,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/870990/capsule_sm_120.jpg?t=1528898762" srcset="https://steamcdn-a.akamaihd.net/steam/apps/870990/capsule_sm_120.jpg?t=1528898762 1x, https://steamcdn-a.akamaihd.net/steam/apps/870990/capsule_231x87.jpg?t=1528898762 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">!LABrpgUP!</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">13 Jun, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/bundle/5056/EcoGames_Bundle/?snr=1_7_7_230_150_1"  data-ds-bundleid="5056" data-ds-bundle-data="{&quot;m_nDiscountPct&quot;:&quot;60&quot;,&quot;m_bMustPurchaseAsSet&quot;:0,&quot;m_rgItems&quot;:[{&quot;m_nPackageID&quot;:157757,&quot;m_rgIncludedAppIDs&quot;:[600600],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880},{&quot;m_nPackageID&quot;:206366,&quot;m_rgIncludedAppIDs&quot;:[713100],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880},{&quot;m_nPackageID&quot;:227301,&quot;m_rgIncludedAppIDs&quot;:[768170],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880}],&quot;m_bIsCommercial&quot;:false,&quot;m_bRestrictGifting&quot;:true}" data-ds-itemkey="Bundle_5056" data-ds-tagids="[597,599,9,492,379975]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:5056,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/5056/5c4wjp7l2rr2pcvc/capsule_sm_120.jpg?t=1515418369" srcset="https://steamcdn-a.akamaihd.net/steam/bundles/5056/5c4wjp7l2rr2pcvc/capsule_sm_120.jpg?t=1515418369 1x, https://steamcdn-a.akamaihd.net/steam/bundles/5056/5c4wjp7l2rr2pcvc/capsule_231x87.jpg?t=1515418369 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">"EcoGames" Bundle</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary negative" data-tooltip-html="Mostly Negative&lt;br&gt;38% of the 31 user reviews for games in this bundle are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2640">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        26,40zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/bundle/6324/Elimination_Bundle/?snr=1_7_7_230_150_1"  data-ds-bundleid="6324" data-ds-bundle-data="{&quot;m_nDiscountPct&quot;:&quot;60&quot;,&quot;m_bMustPurchaseAsSet&quot;:0,&quot;m_rgItems&quot;:[{&quot;m_nPackageID&quot;:216799,&quot;m_rgIncludedAppIDs&quot;:[740390],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880},{&quot;m_nPackageID&quot;:234183,&quot;m_rgIncludedAppIDs&quot;:[778550],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880}],&quot;m_bIsCommercial&quot;:false,&quot;m_bRestrictGifting&quot;:true}" data-ds-itemkey="Bundle_6324" data-ds-tagids="[19,4667,597]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:6324,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/6324/5tcez1k05st1awmv/capsule_sm_120.jpg?t=1519486836" srcset="https://steamcdn-a.akamaihd.net/steam/bundles/6324/5tcez1k05st1awmv/capsule_sm_120.jpg?t=1519486836 1x, https://steamcdn-a.akamaihd.net/steam/bundles/6324/5tcez1k05st1awmv/capsule_231x87.jpg?t=1519486836 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">"Elimination" Bundle</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary negative" data-tooltip-html="Mostly Negative&lt;br&gt;29% of the 17 user reviews for games in this bundle are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1760">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        17,60zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/bundle/6498/MellowStudios_Bundle/?snr=1_7_7_230_150_1"  data-ds-bundleid="6498" data-ds-bundle-data="{&quot;m_nDiscountPct&quot;:&quot;70&quot;,&quot;m_bMustPurchaseAsSet&quot;:0,&quot;m_rgItems&quot;:[{&quot;m_nPackageID&quot;:240135,&quot;m_rgIncludedAppIDs&quot;:[792900],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:660},{&quot;m_nPackageID&quot;:244172,&quot;m_rgIncludedAppIDs&quot;:[802180],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:660},{&quot;m_nPackageID&quot;:272610,&quot;m_rgIncludedAppIDs&quot;:[864590],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:660}],&quot;m_bIsCommercial&quot;:false,&quot;m_bRestrictGifting&quot;:true}" data-ds-itemkey="Bundle_6498" data-ds-tagids="[19,4667,597,492,599]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:6498,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/6498/1s81loqb1jmu8s7w/capsule_sm_120.jpg?t=1521121513" srcset="https://steamcdn-a.akamaihd.net/steam/bundles/6498/1s81loqb1jmu8s7w/capsule_sm_120.jpg?t=1521121513 1x, https://steamcdn-a.akamaihd.net/steam/bundles/6498/1s81loqb1jmu8s7w/capsule_231x87.jpg?t=1521121513 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">"MellowStudios" Bundle</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1980">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        19,80zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/bundle/7281/Shoot_Bundle/?snr=1_7_7_230_150_1"  data-ds-bundleid="7281" data-ds-bundle-data="{&quot;m_nDiscountPct&quot;:&quot;60&quot;,&quot;m_bMustPurchaseAsSet&quot;:0,&quot;m_rgItems&quot;:[{&quot;m_nPackageID&quot;:209960,&quot;m_rgIncludedAppIDs&quot;:[722570],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:2199,&quot;m_nFinalPriceInCents&quot;:2199,&quot;m_nFinalPriceWithBundleDiscount&quot;:880},{&quot;m_nPackageID&quot;:247113,&quot;m_rgIncludedAppIDs&quot;:[809760],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:719,&quot;m_nFinalPriceInCents&quot;:719,&quot;m_nFinalPriceWithBundleDiscount&quot;:288}],&quot;m_bIsCommercial&quot;:false,&quot;m_bRestrictGifting&quot;:true}" data-ds-itemkey="Bundle_7281" data-ds-tagids="[19,597,4667,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:7281,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/7281/51yx7gxqdn88t3k4/capsule_sm_120.jpg?t=1526551278" srcset="https://steamcdn-a.akamaihd.net/steam/bundles/7281/51yx7gxqdn88t3k4/capsule_sm_120.jpg?t=1526551278 1x, https://steamcdn-a.akamaihd.net/steam/bundles/7281/51yx7gxqdn88t3k4/capsule_231x87.jpg?t=1526551278 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">"Shoot" Bundle</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary negative" data-tooltip-html="Mostly Negative&lt;br&gt;26% of the 15 user reviews for games in this bundle are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1168">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        11,68zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/493790/Archery/?snr=1_7_7_230_150_1"  data-ds-appid="493790" data-ds-itemkey="App_493790" data-ds-tagids="[13382,492,701,21978]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:493790,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/493790/capsule_sm_120.jpg?t=1560947604" srcset="https://steamcdn-a.akamaihd.net/steam/apps/493790/capsule_sm_120.jpg?t=1560947604 1x, https://steamcdn-a.akamaihd.net/steam/apps/493790/capsule_231x87.jpg?t=1560947604 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#Archery</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="vr_required">VR Only</span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Dec, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;65% of the 23 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3599">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        35,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/782100/CuteSnake/?snr=1_7_7_230_150_1"  data-ds-appid="782100" data-ds-itemkey="App_782100" data-ds-tagids="[597,599,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:782100,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/782100/capsule_sm_120.jpg?t=1529595541" srcset="https://steamcdn-a.akamaihd.net/steam/apps/782100/capsule_sm_120.jpg?t=1529595541 1x, https://steamcdn-a.akamaihd.net/steam/apps/782100/capsule_231x87.jpg?t=1529595541 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#CuteSnake</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">15 Mar, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;69% of the 13 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/834180/CuteSnake_2/?snr=1_7_7_230_150_1"  data-ds-appid="834180" data-ds-itemkey="App_834180" data-ds-tagids="[492,597,599]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:834180,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/834180/capsule_sm_120.jpg?t=1529598311" srcset="https://steamcdn-a.akamaihd.net/steam/apps/834180/capsule_sm_120.jpg?t=1529598311 1x, https://steamcdn-a.akamaihd.net/steam/apps/834180/capsule_231x87.jpg?t=1529598311 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#CuteSnake 2</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">20 Apr, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Positive&lt;br&gt;92% of the 13 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1100350/Funtime/?snr=1_7_7_230_150_1"  data-ds-appid="1100350" data-ds-itemkey="App_1100350" data-ds-tagids="[19,492,597,4758,1734,4004,4637]" data-ds-crtrids="[35031246]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1100350,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1100350/capsule_sm_120.jpg?t=1585940384" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1100350/capsule_sm_120.jpg?t=1585940384 1x, https://steamcdn-a.akamaihd.net/steam/apps/1100350/capsule_231x87.jpg?t=1585940384 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#Funtime</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">2020</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/303720/KILLALLZOMBIES/?snr=1_7_7_230_150_1"  data-ds-appid="303720" data-ds-itemkey="App_303720" data-ds-tagids="[19,492,1659,4758]" data-ds-crtrids="[33019580]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:303720,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/303720/capsule_sm_120.jpg?t=1471874201" srcset="https://steamcdn-a.akamaihd.net/steam/apps/303720/capsule_sm_120.jpg?t=1471874201 1x, https://steamcdn-a.akamaihd.net/steam/apps/303720/capsule_231x87.jpg?t=1471874201 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#KILLALLZOMBIES</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">10 Aug, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;70% of the 54 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1799">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        17,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/614910/monstercakes/?snr=1_7_7_230_150_1"  data-ds-appid="614910" data-ds-itemkey="App_614910" data-ds-tagids="[597,492,1664,1665,4182]" data-ds-crtrids="[33801606]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:614910,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/614910/capsule_sm_120.jpg?t=1571851168" srcset="https://steamcdn-a.akamaihd.net/steam/apps/614910/capsule_sm_120.jpg?t=1571851168 1x, https://steamcdn-a.akamaihd.net/steam/apps/614910/capsule_231x87.jpg?t=1571851168 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#monstercakes</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">5 May, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;88% of the 444 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/bundle/3438/monstercakes_Deluxe/?snr=1_7_7_230_150_1"  data-ds-bundleid="3438" data-ds-bundle-data="{&quot;m_nDiscountPct&quot;:&quot;31&quot;,&quot;m_bMustPurchaseAsSet&quot;:1,&quot;m_rgItems&quot;:[{&quot;m_nPackageID&quot;:164808,&quot;m_rgIncludedAppIDs&quot;:[614910],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:359,&quot;m_nFinalPriceInCents&quot;:359,&quot;m_nFinalPriceWithBundleDiscount&quot;:248},{&quot;m_nPackageID&quot;:174670,&quot;m_rgIncludedAppIDs&quot;:[635780],&quot;m_bPackageDiscounted&quot;:false,&quot;m_nBasePriceInCents&quot;:359,&quot;m_nFinalPriceInCents&quot;:359,&quot;m_nFinalPriceWithBundleDiscount&quot;:248}],&quot;m_bIsCommercial&quot;:false,&quot;m_bRestrictGifting&quot;:false}" data-ds-itemkey="Bundle_3438" data-ds-tagids="[597,492,1664,1665,4182]" data-ds-crtrids="[33801606]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:3438,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/3438/6ukg3pljmvlwburr/capsule_sm_120.jpg?t=1538204565" srcset="https://steamcdn-a.akamaihd.net/steam/bundles/3438/6ukg3pljmvlwburr/capsule_sm_120.jpg?t=1538204565 1x, https://steamcdn-a.akamaihd.net/steam/bundles/3438/6ukg3pljmvlwburr/capsule_231x87.jpg?t=1538204565 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#monstercakes Deluxe</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow"></div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;88% of the 445 user reviews for games in this bundle are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="496">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        4,96zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/635780/monstercakes_OST/?snr=1_7_7_230_150_1"  data-ds-appid="635780" data-ds-itemkey="App_635780" data-ds-tagids="[492,597]" data-ds-crtrids="[33801606]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:635780,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/635780/capsule_sm_120.jpg?t=1494613685" srcset="https://steamcdn-a.akamaihd.net/steam/apps/635780/capsule_sm_120.jpg?t=1494613685 1x, https://steamcdn-a.akamaihd.net/steam/apps/635780/capsule_231x87.jpg?t=1494613685 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#monstercakes OST</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">12 May, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/392190/SelfieTennis/?snr=1_7_7_230_150_1"  data-ds-appid="392190" data-ds-itemkey="App_392190" data-ds-tagids="[5914,701,492,21978,10397]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:392190,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/392190/capsule_sm_120.jpg?t=1561466696" srcset="https://steamcdn-a.akamaihd.net/steam/apps/392190/capsule_sm_120.jpg?t=1561466696 1x, https://steamcdn-a.akamaihd.net/steam/apps/392190/capsule_231x87.jpg?t=1561466696 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#SelfieTennis</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="vr_required">VR Only</span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">1 Apr, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;68% of the 76 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3599">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        35,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/392150/SkiJump/?snr=1_7_7_230_150_1"  data-ds-appid="392150" data-ds-itemkey="App_392150" data-ds-tagids="[701,492,493,699,21978]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:392150,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/392150/capsule_sm_120.jpg?t=1570032136" srcset="https://steamcdn-a.akamaihd.net/steam/apps/392150/capsule_sm_120.jpg?t=1570032136 1x, https://steamcdn-a.akamaihd.net/steam/apps/392150/capsule_231x87.jpg?t=1570032136 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#SkiJump</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="vr_supported">VR Supported</span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">29 Jun, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3599">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        35,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/560660/Utopia/?snr=1_7_7_230_150_1"  data-ds-appid="560660" data-ds-itemkey="App_560660" data-ds-tagids="[128,492,701,699]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:560660,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/560660/capsule_sm_120.jpg?t=1542658587" srcset="https://steamcdn-a.akamaihd.net/steam/apps/560660/capsule_sm_120.jpg?t=1542658587 1x, https://steamcdn-a.akamaihd.net/steam/apps/560660/capsule_231x87.jpg?t=1542658587 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#Utopia</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="vr_required">VR Only</span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">2 May, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/779420/WarGames/?snr=1_7_7_230_150_1"  data-ds-appid="779420" data-ds-itemkey="App_779420" data-ds-tagids="[492,21,18594,5502]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:779420,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/779420/capsule_sm_120.jpg?t=1521142934" srcset="https://steamcdn-a.akamaihd.net/steam/apps/779420/capsule_sm_120.jpg?t=1521142934 1x, https://steamcdn-a.akamaihd.net/steam/apps/779420/capsule_231x87.jpg?t=1521142934 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">#WarGames</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">14 Mar, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;54% of the 81 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1099">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        10,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/508290/1_Ride/?snr=1_7_7_230_150_1"  data-ds-appid="508290" data-ds-itemkey="App_508290" data-ds-tagids="[597,19,492,1773]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:508290,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/508290/capsule_sm_120.jpg?t=1469737159" srcset="https://steamcdn-a.akamaihd.net/steam/apps/508290/capsule_sm_120.jpg?t=1469737159 1x, https://steamcdn-a.akamaihd.net/steam/apps/508290/capsule_231x87.jpg?t=1469737159 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">$1 Ride</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">28 Jul, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;57% of the 95 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1034010/100_Artbook/?snr=1_7_7_230_150_1"  data-ds-appid="1034010" data-ds-itemkey="App_1034010" data-ds-tagids="[492]" data-ds-crtrids="[8114152]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1034010,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1034010/capsule_sm_120.jpg?t=1552937513" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1034010/capsule_sm_120.jpg?t=1552937513 1x, https://steamcdn-a.akamaihd.net/steam/apps/1034010/capsule_231x87.jpg?t=1552937513 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">$100 Artbook</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">15 Feb, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="179">
+                    <div class="col search_discount responsive_secondrow">
+                        <span>-50%</span>
+                    </div>
+                    <div class="col search_price discounted responsive_secondrow">
+                        <span style="color: #888888;"><strike>3,59zł</strike></span><br>1,79zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/562280/reality/?snr=1_7_7_230_150_1"  data-ds-appid="573560" data-ds-itemkey="App_573560" data-ds-tagids="[21,492]" data-ds-crtrids="[28081284]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:573560,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/573560/capsule_sm_120.jpg?t=1492553777" srcset="https://steamcdn-a.akamaihd.net/steam/apps/573560/capsule_sm_120.jpg?t=1492553777 1x, https://steamcdn-a.akamaihd.net/steam/apps/573560/capsule_231x87.jpg?t=1492553777 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&amp;lt;/reality&amp;gt; Demo</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Apr, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        Free Demo                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/557330/SystemHack/?snr=1_7_7_230_150_1"  data-ds-appid="557330" data-ds-itemkey="App_557330" data-ds-tagids="[122,492,599,493,4115,5502,3942]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:557330,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/557330/capsule_sm_120.jpg?t=1571010774" srcset="https://steamcdn-a.akamaihd.net/steam/apps/557330/capsule_sm_120.jpg?t=1571010774 1x, https://steamcdn-a.akamaihd.net/steam/apps/557330/capsule_231x87.jpg?t=1571010774 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&gt;//:System.Hack</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">12 May, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Positive&lt;br&gt;83% of the 24 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3999">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        39,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1162950/Connect/?snr=1_7_7_230_150_1"  data-ds-appid="1162950" data-ds-itemkey="App_1162950" data-ds-tagids="[19,599]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1162950,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1162950/capsule_sm_120.jpg?t=1571068767" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1162950/capsule_sm_120.jpg?t=1571068767 1x, https://steamcdn-a.akamaihd.net/steam/apps/1162950/capsule_231x87.jpg?t=1571068767 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&gt;Connect</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">14 Oct, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2199">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        21,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/514900/observer/?snr=1_7_7_230_150_1"  data-ds-appid="514900" data-ds-itemkey="App_514900" data-ds-tagids="[4115,1721,1667,4166,3942,1742,5900]" data-ds-descids="[2,5]" data-ds-crtrids="[35624221,31936442]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:514900,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/514900/capsule_sm_120.jpg?t=1574281499" srcset="https://steamcdn-a.akamaihd.net/steam/apps/514900/capsule_sm_120.jpg?t=1574281499 1x, https://steamcdn-a.akamaihd.net/steam/apps/514900/capsule_231x87.jpg?t=1574281499 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&gt;observer_</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">15 Aug, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;82% of the 3,277 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="10799">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        107,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/860840/Asemblance_Oversight_Original_Soundtrack/?snr=1_7_7_230_150_1"  data-ds-appid="860840" data-ds-itemkey="App_860840" data-ds-tagids="[21,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:860840,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/860840/capsule_sm_120.jpg?t=1526313658" srcset="https://steamcdn-a.akamaihd.net/steam/apps/860840/capsule_sm_120.jpg?t=1526313658 1x, https://steamcdn-a.akamaihd.net/steam/apps/860840/capsule_231x87.jpg?t=1526313658 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Asemblance: Oversight&quot; Original Soundtrack</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">14 May, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2199">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        21,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/308163/Barely_Attuned_Magic_Thingy_Staff/?snr=1_7_7_230_150_1"  data-ds-appid="308163" data-ds-itemkey="App_308163" data-ds-tagids="[19,113,122,128,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:308163,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/308163/capsule_sm_120.jpg?t=1476373141" srcset="https://steamcdn-a.akamaihd.net/steam/apps/308163/capsule_sm_120.jpg?t=1476373141 1x, https://steamcdn-a.akamaihd.net/steam/apps/308163/capsule_231x87.jpg?t=1476373141 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Barely Attuned Magic Thingy&quot; Staff</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Jun, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/439260/BUTTS_The_VR_Experience/?snr=1_7_7_230_150_1"  data-ds-appid="439260" data-ds-itemkey="App_439260" data-ds-tagids="[1721,597,21978,6650,10397,4136,7478]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:439260,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/439260/capsule_sm_120.jpg?t=1568243284" srcset="https://steamcdn-a.akamaihd.net/steam/apps/439260/capsule_sm_120.jpg?t=1568243284 1x, https://steamcdn-a.akamaihd.net/steam/apps/439260/capsule_231x87.jpg?t=1568243284 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;BUTTS: The VR Experience&quot;</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="vr_required">VR Only</span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">4 Feb, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;78% of the 71 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        Free                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/388390/Glow_Ball__The_billiard_puzzle_game/?snr=1_7_7_230_150_1"  data-ds-appid="388390" data-ds-itemkey="App_388390" data-ds-tagids="[492,597,9,701]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:388390,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/388390/capsule_sm_120.jpg?t=1492053170" srcset="https://steamcdn-a.akamaihd.net/steam/apps/388390/capsule_sm_120.jpg?t=1492053170 1x, https://steamcdn-a.akamaihd.net/steam/apps/388390/capsule_231x87.jpg?t=1492053170 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Glow Ball&quot; - The billiard puzzle game</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">21 Jul, 2015</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1449">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        14,49zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1102740/Going_Up/?snr=1_7_7_230_150_1"  data-ds-appid="1102740" data-ds-itemkey="App_1102740" data-ds-tagids="[122,597,492,493,9]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1102740,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1102740/capsule_sm_120.jpg?t=1564900703" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1102740/capsule_sm_120.jpg?t=1564900703 1x, https://steamcdn-a.akamaihd.net/steam/apps/1102740/capsule_231x87.jpg?t=1564900703 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Going Up?&quot;</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">3 Aug, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1449">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        14,49zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/454790/Just_Another_Day__Seduce_Me_Otome_CD/?snr=1_7_7_230_150_1"  data-ds-appid="454790" data-ds-itemkey="App_454790" data-ds-tagids="[597,599]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:454790,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/454790/capsule_sm_120.jpg?t=1458176917" srcset="https://steamcdn-a.akamaihd.net/steam/apps/454790/capsule_sm_120.jpg?t=1458176917 1x, https://steamcdn-a.akamaihd.net/steam/apps/454790/capsule_231x87.jpg?t=1458176917 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Just Another Day&quot; - Seduce Me Otome CD</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span><span class="platform_img linux"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">17 Mar, 2016</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Positive&lt;br&gt;95% of the 24 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1799">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        17,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/308164/Lethargic_Sentience_Wand/?snr=1_7_7_230_150_1"  data-ds-appid="308164" data-ds-itemkey="App_308164" data-ds-tagids="[19,113,122,128,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:308164,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/308164/capsule_sm_120.jpg?t=1447362354" srcset="https://steamcdn-a.akamaihd.net/steam/apps/308164/capsule_sm_120.jpg?t=1447362354 1x, https://steamcdn-a.akamaihd.net/steam/apps/308164/capsule_231x87.jpg?t=1447362354 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Lethargic Sentience&quot; Wand</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Jun, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1111070/LoveChoice__Original_Sound_Track_2/?snr=1_7_7_230_150_1"  data-ds-appid="1111070" data-ds-itemkey="App_1111070" data-ds-tagids="[21,122,492,599]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1111070,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1111070/capsule_sm_120.jpg?t=1561972296" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1111070/capsule_sm_120.jpg?t=1561972296 1x, https://steamcdn-a.akamaihd.net/steam/apps/1111070/capsule_231x87.jpg?t=1561972296 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;LoveChoice - Original Sound Track 2&quot;</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">1 Jul, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="719">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        7,19zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/942430/LoveChoice__Original_Sound_Track/?snr=1_7_7_230_150_1"  data-ds-appid="942430" data-ds-itemkey="App_942430" data-ds-tagids="[122,492]" data-ds-crtrids="[33563856]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:942430,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/942430/capsule_sm_120.jpg?t=1538442049" srcset="https://steamcdn-a.akamaihd.net/steam/apps/942430/capsule_sm_120.jpg?t=1538442049 1x, https://steamcdn-a.akamaihd.net/steam/apps/942430/capsule_231x87.jpg?t=1538442049 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;LoveChoice - Original Sound Track&quot;</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">1 Oct, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Positive&lt;br&gt;100% of the 11 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="719">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        7,19zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/931010/Mushroom_rain__wallpaper_1920x1080/?snr=1_7_7_230_150_1"  data-ds-appid="931010" data-ds-itemkey="App_931010" data-ds-tagids="[597,492,4182,4166,5144,1654,1734]" data-ds-crtrids="[33019586]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:931010,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/931010/capsule_sm_120.jpg?t=1546694723" srcset="https://steamcdn-a.akamaihd.net/steam/apps/931010/capsule_sm_120.jpg?t=1546694723 1x, https://steamcdn-a.akamaihd.net/steam/apps/931010/capsule_231x87.jpg?t=1546694723 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Mushroom rain&quot; - wallpaper 1920x1080</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">10 Sep, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/308162/Precisely_Calibrated_Stringstick_Bow/?snr=1_7_7_230_150_1"  data-ds-appid="308162" data-ds-itemkey="App_308162" data-ds-tagids="[19,113,122,128,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:308162,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/308162/capsule_sm_120.jpg?t=1447362353" srcset="https://steamcdn-a.akamaihd.net/steam/apps/308162/capsule_sm_120.jpg?t=1447362353 1x, https://steamcdn-a.akamaihd.net/steam/apps/308162/capsule_231x87.jpg?t=1447362353 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Precisely Calibrated Stringstick&quot; Bow</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Jun, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/684340/Project_Whateley/?snr=1_7_7_230_150_1"  data-ds-appid="684340" data-ds-itemkey="App_684340" data-ds-tagids="[19,21,492,493,7432,7208,1625]" data-ds-crtrids="[33021957]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:684340,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/684340/capsule_sm_120.jpg?t=1566330862" srcset="https://steamcdn-a.akamaihd.net/steam/apps/684340/capsule_sm_120.jpg?t=1566330862 1x, https://steamcdn-a.akamaihd.net/steam/apps/684340/capsule_231x87.jpg?t=1566330862 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Project Whateley&quot;</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">12 Sep, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/940770/Reimu_Hakurei_Bikini_Costume_Touhou_Genso_Wanderer_Reloaded/?snr=1_7_7_230_150_1"  data-ds-appid="940770" data-ds-itemkey="App_940770" data-ds-tagids="[21,492,122]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:940770,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/940770/capsule_sm_120.jpg?t=1542012765" srcset="https://steamcdn-a.akamaihd.net/steam/apps/940770/capsule_sm_120.jpg?t=1542012765 1x, https://steamcdn-a.akamaihd.net/steam/apps/940770/capsule_231x87.jpg?t=1542012765 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Reimu Hakurei&quot; Bikini Costume (Touhou Genso Wanderer -Reloaded-)</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">26 Oct, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                            <span class="search_review_summary positive" data-tooltip-html="Positive&lt;br&gt;100% of the 10 user reviews for this game are positive.">
+								</span>
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="649">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        6,49zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/940771/Reimu_Hakurei_Santa_Costume_Touhou_Genso_Wanderer_Reloaded/?snr=1_7_7_230_150_1"  data-ds-appid="940771" data-ds-itemkey="App_940771" data-ds-tagids="[21,122,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:940771,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/940771/capsule_sm_120.jpg?t=1542012767" srcset="https://steamcdn-a.akamaihd.net/steam/apps/940771/capsule_sm_120.jpg?t=1542012767 1x, https://steamcdn-a.akamaihd.net/steam/apps/940771/capsule_231x87.jpg?t=1542012767 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Reimu Hakurei&quot; Santa Costume (Touhou Genso Wanderer -Reloaded-)</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">26 Oct, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="649">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        6,49zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/754550/The_Guard_Of_Dungeon__wallpaper_1920x1080/?snr=1_7_7_230_150_1"  data-ds-appid="754550" data-ds-itemkey="App_754550" data-ds-tagids="[19,492,1663,1673,1742,1774,4166]" data-ds-crtrids="[33019586]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:754550,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/754550/capsule_sm_120.jpg?t=1546696256" srcset="https://steamcdn-a.akamaihd.net/steam/apps/754550/capsule_sm_120.jpg?t=1546696256 1x, https://steamcdn-a.akamaihd.net/steam/apps/754550/capsule_231x87.jpg?t=1546696256 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;The Guard Of Dungeon&quot; - wallpaper 1920x1080</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">21 Nov, 2017</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="359">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        3,59zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/308160/Toy_Knife_Dagger/?snr=1_7_7_230_150_1"  data-ds-appid="308160" data-ds-itemkey="App_308160" data-ds-tagids="[122,128,19,113,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:308160,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/308160/capsule_sm_120.jpg?t=1447362352" srcset="https://steamcdn-a.akamaihd.net/steam/apps/308160/capsule_sm_120.jpg?t=1447362352 1x, https://steamcdn-a.akamaihd.net/steam/apps/308160/capsule_231x87.jpg?t=1447362352 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Toy Knife&quot; Dagger</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Jun, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/308161/Unstable_Anomaly_Sword/?snr=1_7_7_230_150_1"  data-ds-appid="308161" data-ds-itemkey="App_308161" data-ds-tagids="[128,492,19,122,113]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:308161,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/308161/capsule_sm_120.jpg?t=1447362352" srcset="https://steamcdn-a.akamaihd.net/steam/apps/308161/capsule_sm_120.jpg?t=1447362352 1x, https://steamcdn-a.akamaihd.net/steam/apps/308161/capsule_231x87.jpg?t=1447362352 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;Unstable Anomaly&quot; Sword</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">19 Jun, 2014</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1110650/I_want_to_hit_you_Developer/?snr=1_7_7_230_150_1"  data-ds-appid="1110650" data-ds-itemkey="App_1110650" data-ds-tagids="[21,492]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1110650,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1110650/capsule_sm_120.jpg?t=1585627644" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1110650/capsule_sm_120.jpg?t=1585627644 1x, https://steamcdn-a.akamaihd.net/steam/apps/1110650/capsule_231x87.jpg?t=1585627644 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">&quot;别以为你是开发者我就不敢打你&quot;/I want to hit you: Developer</span>
+                    <p>
+                        <span class="platform_img win"></span><span class="platform_img mac"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">31 Aug, 2019</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="179">
+                    <div class="col search_discount responsive_secondrow">
+                        <span>-75%</span>
+                    </div>
+                    <div class="col search_price discounted responsive_secondrow">
+                        <span style="color: #888888;"><strike>7,19zł</strike></span><br>1,79zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/879270/1st_Core_The_Zombie_Killing_Cyborg/?snr=1_7_7_230_150_1"  data-ds-appid="879270" data-ds-itemkey="App_879270" data-ds-tagids="[19,492,122,1667,1659,1662,1743]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:879270,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/879270/capsule_sm_120.jpg?t=1568555013" srcset="https://steamcdn-a.akamaihd.net/steam/apps/879270/capsule_sm_120.jpg?t=1568555013 1x, https://steamcdn-a.akamaihd.net/steam/apps/879270/capsule_231x87.jpg?t=1568555013 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">'1st Core: The Zombie Killing Cyborg'</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">30 Jun, 2018</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3599">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        35,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1059220/83/?snr=1_7_7_230_150_1"  data-ds-appid="1059220" data-ds-itemkey="App_1059220" data-ds-tagids="[19,4667,9,128,4345,599,5179]" data-ds-descids="[2,5]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1059220,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1059220/capsule_sm_120.jpg?t=1554311522" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1059220/capsule_sm_120.jpg?t=1554311522 1x, https://steamcdn-a.akamaihd.net/steam/apps/1059220/capsule_231x87.jpg?t=1554311522 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">'83</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">Coming Soon</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="0">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                                            </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            		<a href="https://store.steampowered.com/app/1245510/Moskva_Paintings_Pack/?snr=1_7_7_230_150_1"  data-ds-appid="1245510" data-ds-itemkey="App_1245510" data-ds-tagids="[599,492,493,597,21,699,1027]" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1245510,&quot;public&quot;:1,&quot;v6&quot;:1} );" onmouseout="HideGameHover( this, event, 'global_hover' )" class="search_result_row ds_collapse_flag " data-search-page="1" >
+            <div class="col search_capsule"><img src="https://steamcdn-a.akamaihd.net/steam/apps/1245510/capsule_sm_120.jpg?t=1585591317" srcset="https://steamcdn-a.akamaihd.net/steam/apps/1245510/capsule_sm_120.jpg?t=1585591317 1x, https://steamcdn-a.akamaihd.net/steam/apps/1245510/capsule_231x87.jpg?t=1585591317 2x"></div>
+            <div class="responsive_search_name_combined">
+                <div class="col search_name ellipsis">
+                    <span class="title">'Moskva' Paintings Pack</span>
+                    <p>
+                        <span class="platform_img win"></span>                    </p>
+                </div>
+                <div class="col search_released responsive_secondrow">15 Feb, 2020</div>
+                <div class="col search_reviewscore responsive_secondrow">
+                                    </div>
+
+
+                <div class="col search_price_discount_combined responsive_secondrow" data-price-final="799">
+                    <div class="col search_discount responsive_secondrow">
+                        
+                    </div>
+                    <div class="col search_price  responsive_secondrow">
+                        7,99zł                    </div>
+                </div>
+            </div>
+
+
+            <div style="clear: left;"></div>
+        </a>
+            <!-- End List Items -->
