@@ -36,12 +36,18 @@ def getPlatformList(page: requests.models.Response) -> list:
     return platforms
 
 
-def getTitleList(page: requests.models.Response) -> list:
-    titles = list(re.compile(r"title.>([^<]+|)").findall(page.text.partition(r"<!-- List Items -->")[2]))
-    return titles
+def getTitle(page: requests.models.Response, id: int) -> str:
+    # title = re.compile(r"title.>([^<]+|)").match(page.text.partition(str(id))[2])
+    string = page.text.partition(r"<!-- List Items -->")[2].partition(str(id))[2]
+    title = re.compile(r"title.>([^<]+|)").search(string).group(1).lstrip().rstrip()
+    title = title.replace(r"&quot;", "\"")
+    title = title.replace(r"&amp;", r"&")
+    title = title.replace(r"&lt;", r"<")
+    title = title.replace(r"&gt;", r">")
+    return title
 
 
-def getPriceList(page: requests.models.Response) -> list:
+def getPrice(page: requests.models.Response, id: int) -> list:
     prices = list(
         set(re.compile(r"search_price[^_].+\s+([\d,]+[\d]+[\S]+)|(Free\s+to\s+Play)|>([\d,]+[\S]+)<\/strike").findall(
             page.text.partition(r"<!-- List Items -->")[2])))
@@ -72,10 +78,16 @@ if isPageExist(main_url + "&page=1"):
     page = getPage(main_url)
     # last_page = re.compile(r";(\d+)\s+").search(page.text)
     # for page_number in range(last_page):
-    print("Apps :\t" + "\t".join(str(len(getAppList(page)))))
+    apps = getAppList(page)
+    print("Apps :\t" + "\t".join(str(len(apps))))
     print("Bundles :\t" + "\t".join(str(len(getBundleList(page)))))
+    for app in apps:
+        print(app + ": " + getTitle(page, app))
+
+'''    
     print("Titles:\t" + "\t> ".join((getTitleList(page))))
     # print("Platforms: " + "\t".join(getPlatformList(page))))
     print("Discounts:\t" + "\t".join(str(len(getDiscountList(page)))))
     print("Discount prices:\t" + "\t".join(str(len(getDiscountPriceList(page)))))
     print("Prices:\t" + "\t".join(str(len(getPriceList(page)))))
+'''
