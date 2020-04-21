@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8fb525a9-313d-4f5e-9ecf-c95a9b39c914" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -98,6 +116,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
@@ -118,50 +148,50 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="402" y="0" key="#grabber_proto2/0.0.1366.738@0.0.1366.738" timestamp="1586090579837" />
-    <state x="438" y="70" key="#xdebugger.evaluate" timestamp="1586804135475">
+    <state x="438" y="70" key="#xdebugger.evaluate" timestamp="1587499502214">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="438" y="70" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1586804135475" />
-    <state width="597" height="438" key="DebuggerActiveHint" timestamp="1586802937554">
+    <state x="438" y="70" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1587499502214" />
+    <state width="597" height="438" key="DebuggerActiveHint" timestamp="1587497192075">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="597" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1586802937554" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586620630237">
+    <state width="597" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1587497192075" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1587227057724">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586620630237" />
-    <state width="1344" height="171" key="GridCell.Tab.0.bottom" timestamp="1586805669423">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587227057724" />
+    <state width="1344" height="111" key="GridCell.Tab.0.bottom" timestamp="1587500493863">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586805669423" />
-    <state width="1344" height="171" key="GridCell.Tab.0.center" timestamp="1586805669422">
+    <state width="1344" height="111" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587500493863" />
+    <state width="1344" height="111" key="GridCell.Tab.0.center" timestamp="1587500493863">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586805669422" />
-    <state width="1344" height="171" key="GridCell.Tab.0.left" timestamp="1586805669422">
+    <state width="1344" height="111" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587500493863" />
+    <state width="1344" height="111" key="GridCell.Tab.0.left" timestamp="1587500493863">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586805669422" />
-    <state width="1344" height="171" key="GridCell.Tab.0.right" timestamp="1586805669423">
+    <state width="1344" height="111" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587500493863" />
+    <state width="1344" height="111" key="GridCell.Tab.0.right" timestamp="1587500493863">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="171" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586805669423" />
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1586804190966">
+    <state width="1344" height="111" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587500493863" />
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom" timestamp="1587500278349">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586804190966" />
-    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1586804190966">
+    <state width="1344" height="194" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587500278349" />
+    <state width="1344" height="194" key="GridCell.Tab.1.center" timestamp="1587500278348">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586804190966" />
-    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1586804190966">
+    <state width="1344" height="194" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587500278348" />
+    <state width="1344" height="194" key="GridCell.Tab.1.left" timestamp="1587500278348">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586804190966" />
-    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1586804190966">
+    <state width="1344" height="194" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587500278348" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right" timestamp="1587500278348">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586804190966" />
+    <state width="1344" height="194" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587500278348" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1586373964533">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -170,10 +200,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1586372482584" />
-    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1586804132353">
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1587499490406">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1586804132353" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1587499490406" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586372474163">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -182,20 +212,35 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="602" height="407" key="javadoc.popup/0.0.1366.738@0.0.1366.738" timestamp="1585250321757" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586012037670">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1587496775465">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586012037670" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587496775465" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/grabber_proto2.py</url>
-          <line>84</line>
+          <line>110</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/grabber_proto2.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/grabber_proto2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="price" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

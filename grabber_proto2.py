@@ -16,6 +16,13 @@ def isPageExist(url: str) -> bool:
         return False
 
 
+def getValue(page: requests.models.Response, id: int, pattern: str) -> str:
+    string = page.text.partition(r"<!-- List Items -->")[2].partition(str(id))[2].partition(r"app/")[0]
+    value = re.compile(pattern).search(string).group(1)
+    value.lstrip().rstrip()
+    return value
+
+
 def getPage(url: str) -> requests.models.Response:
     return requests.get(url, cookies={"birthtime": "0"})
 
@@ -37,9 +44,8 @@ def getPlatformList(page: requests.models.Response) -> list:
 
 
 def getTitle(page: requests.models.Response, id: int) -> str:
-    # title = re.compile(r"title.>([^<]+|)").match(page.text.partition(str(id))[2])
-    string = page.text.partition(r"<!-- List Items -->")[2].partition(str(id))[2]
-    title = re.compile(r"title.>([^<]+|)").search(string).group(1).lstrip().rstrip()
+    pattern = r"title.>([^<]+|)"
+    title = getValue(page, id, pattern)
     title = title.replace(r"&quot;", "\"")
     title = title.replace(r"&amp;", r"&")
     title = title.replace(r"&lt;", r"<")
@@ -47,24 +53,39 @@ def getTitle(page: requests.models.Response, id: int) -> str:
     return title
 
 
-def getPrice(page: requests.models.Response, id: int) -> list:
-    prices = list(
-        set(re.compile(r"search_price[^_].+\s+([\d,]+[\d]+[\S]+)|(Free\s+to\s+Play)|>([\d,]+[\S]+)<\/strike").findall(
-            page.text.partition(r"<!-- List Items -->")[2])))
-    result = map(lambda x: x[0] if (x[1] == '') else x[1], prices)
-    return list(result)
+def getPrice(page: requests.models.Response, id: int) -> str:
+    price = ""
+    patterns = [
+        r"search_price.+\s+(\d+\D+\d+[^<\s]+)",
+        r"search_price.+\s+([fF]ree\s+[tT]o\s+[pP]lay)",
+        r"search_price.+\s+.+strike>(\d+\D+\d+[^<\s]+)"
+    ]
+    for pattern in patterns:
+        try:
+            price = getValue(page, id, pattern)
+        except:
+            pass
+    return price
 
 
-def getDiscountPriceList(page: requests.models.Response) -> list:
-    discount_prices = list(
-        re.compile(r"search_price.+\s+.+br>([\d,]+[\S]+)").findall(page.text.partition(r"<!-- List Items -->")[2]))
-    return discount_prices
+def getDiscountPrice(page: requests.models.Response, id: int) -> str:
+    pattern = r"search_price.+\s+.+br>(\d+\D+\d+[^<\s]+)"
+    try:
+        discount_price = getValue(page, id, pattern)
+    except:
+        # print("There is no result for " + pattern + "for " + str(id))
+        discount_price = ""
+    return discount_price
 
 
-def getDiscountList(page: requests.models.Response) -> list:
-    discounts = list(
-        re.compile(r"search_discount.+\s+.+([\s\S]{4})<").findall(page.text.partition(r"<!-- List Items -->")[2]))
-    return discounts
+def getDiscount(page: requests.models.Response, id: int) -> str:
+    pattern = r"search_discount.+\s+.+(\-\d+%)"
+    try:
+        discount = getValue(page, id, pattern)
+    except:
+        # print("There is no result for " + pattern + "for " + str(id))
+        discount = ""
+    return discount
 
 
 main_url = r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"  # &page=
@@ -73,17 +94,31 @@ cc_price = list()
 
 # title.>([\w\S][^<]+)
 
-
+exception_count = 0
 if isPageExist(main_url + "&page=1"):
     page = getPage(main_url)
     # last_page = re.compile(r";(\d+)\s+").search(page.text)
     # for page_number in range(last_page):
     apps = getAppList(page)
+    bundles = getBundleList(page)
     print("Apps :\t" + "\t".join(str(len(apps))))
-    print("Bundles :\t" + "\t".join(str(len(getBundleList(page)))))
+    print("Bundles :\t" + "\t".join(str(len(bundles))))
     for app in apps:
-        print(app + ": " + getTitle(page, app))
-
+        title = getTitle(page, app)
+        price = getPrice(page, app)
+        discount = getDiscount(page, app)
+        discount_price = getDiscountPrice(page, app)
+        print(
+            "App " + app + ": <" + title + ">, price <" + price + ">, discount <" + discount +
+            ">, discount price <" + discount_price + ">")
+    for bundle in bundles:
+        title = getTitle(page, bundle)
+        price = getPrice(page, bundle)
+        discount = getDiscount(page, bundle)
+        discount_price = getDiscountPrice(page, bundle)
+        print(
+            "App " + bundle + ": <" + title + ">, price <" + price + ">, discount <" + discount +
+            ">, discount price <" + discount_price + ">")
 '''    
     print("Titles:\t" + "\t> ".join((getTitleList(page))))
     # print("Platforms: " + "\t".join(getPlatformList(page))))
