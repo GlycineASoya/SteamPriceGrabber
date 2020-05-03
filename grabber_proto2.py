@@ -14,11 +14,15 @@ if page_parser.isPageExist(page_parser.main_url + r"&page=1"):
         game = Game(
             uid=app,
             title=page_parser.getTitle(app))
+        game.isFree = page_parser.isFree(app)
         game.price = page_parser.getPrice(app)
         game.discount = page_parser.getDiscount(app)
         game.discount_price = page_parser.getDiscountPrice(app)
+        game.platforms = page_parser.getPlatformList(app)
         game.printValues()
+        db.connect()
         if db.checkConnection():
-            #db.writeToDb(game)
+            db.writeToDb(game)
+            # db.getGameById(game.uid)
             db.closeConnection()
         del game

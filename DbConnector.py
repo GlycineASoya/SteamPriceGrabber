@@ -1,4 +1,4 @@
-from datetime import date
+import datetime
 
 import mysql
 import mysql.connector
@@ -21,7 +21,7 @@ class DbConnector:
     def __init__(self):
         pass
 
-    def __init__(self, host="localhost", username="", password="", database=""):
+    def __init__(self, host: str = "localhost", username: str = "", password: str = "", database: str = ""):
         self._host = host
         self._username = username
         self._password = password
@@ -29,29 +29,50 @@ class DbConnector:
         self.__connector = mysql.connector.connect(username=username, password=password, host=host, database=database,
                                                    port=3306)
 
+    def getGameById(self, uid: int) -> Game:
+        cursor = self.__connector.cursor()
+
+        query = ("SELECT "
+                 "steam_uid, date_time, title, is_free, platforms "
+                 "FROM game"
+                 "WHERE steam_uid = %(uid)s"
+                 )
+
+        data = {
+            'uid': uid
+        }
+
+        cursor.execute(query, data)
+
+        # cursor.execute("SELECT steam_uid, date_time, title, is_free, platforms FROM game WHERE steam_uid = 396420")
+        date = cursor.fetchall()
+        game = Game()
+        cursor.close()
+        return game
+
     def writeToDb(self, game: Game):
         cursor = self.__connector.cursor()
 
-        add_game = ("INSERT INTO main_table "
-                    "(steam_id, date_time, type_of_item, title, price, discount_price, discount, platforms) "
-                    "VALUES (%(steam_id)s, %(date_time)s, %(type_of_item)s, %(title)s), %(price)s), %(discount_price)s), %(discount)s), %(platforms)s)")
+        # add_game = ("INSERT INTO test (date) VALUES ('{}')".format(datetime.datetime.utcnow().replace(microsecond=0)))
+
+        add_game = ("INSERT INTO game "
+                    "(steam_uid, date_time, title, is_free, platforms) "
+                    "VALUES (%(uid)s, %(date_time)s, %(title)s, %(is_free)s, %(platforms)s)")
 
         data_game = {
-            "steam_id": game.uid,
-            "date_time": date.today(),
-            "type_of_item": "",
-            "title": game.title,
-            "price": game.price,
-            "discount_price": game.discountPrice,
-            "discount": game.discount,
-            "platforms": ""
+            'uid': str(game.uid),
+            'date_time': datetime.datetime.utcnow().replace(microsecond=0),
+            'title': game.title,
+            'is_free': game.isFree,
+            'platforms': "".join(map(", ".join, game.platforms))
         }
-
         cursor.execute(add_game, data_game)
 
         self.__connector.commit()
-
         cursor.close()
+
+    def connect(self):
+        self.__connector.connect()
 
     def closeConnection(self):
         self.__connector.close()

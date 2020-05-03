@@ -46,8 +46,8 @@ class PageParser:
         else:
             return False
 
-    def getValue(self, id: str, pattern: str) -> str:
-        string = self.__page.text.partition(r"<!-- List Items -->")[2].partition(id)[2].partition(r"app/")[0]
+    def getValue(self, uid: int, pattern: str) -> str:
+        string = self.__page.text.partition(r"<!-- List Items -->")[2].partition(str(uid))[2].partition(r"app/")[0]
         value = re.compile(pattern).search(string).group(1)
         value.lstrip().rstrip()
         return value
@@ -57,57 +57,78 @@ class PageParser:
 
     def getBundleList(self):
         bundles = list(re.compile(r"bundle[\/]([0-9]+)").findall(self.__page.text.partition(r"<!-- List Items -->")[2]))
-        self.game_list.extend(bundles)
+        self.game_list.extend(list(map(int, bundles)))
 
     def getAppList(self):
         apps = list(re.compile(r"app[\/]([0-9]+)").findall(self.__page.text.partition(r"<!-- List Items -->")[2]))
-        self.game_list.extend(apps)
+        self.game_list.extend(list(map(int, apps)))
 
-    def getPlatformList(self) -> list:
-        platforms = list(
-            re.compile(r"platform_img\s([\w\S][^\"]+)").findall(self.__page.text.partition(r"<!-- List Items -->")[2]))
+    def getPlatformList(self, uid: int) -> tuple:
+        platforms = []
+        pattern = r"platform_img\s([\w\S][^\"]+)"
+        try:
+            result = self.getValue(uid, pattern)
+            if result is not None:
+                platforms = result
+        except:
+            pass
         return platforms
 
-    def getTitle(self, id: str) -> str:
+    def getTitle(self, uid: int) -> str:
         title = ""
         pattern = r"title.>([^<]+|)"
-        title = self.getValue(id, pattern)
+        title = self.getValue(uid, pattern)
         title = title.replace(r"&quot;", "\"")
         title = title.replace(r"&amp;", r"&")
         title = title.replace(r"&lt;", r"<")
         title = title.replace(r"&gt;", r">")
         return title
 
-    def getPrice(self, id: str) -> str:
-        price: str = ""
-        patterns = [
+    def isFree(self, uid: int) -> bool:
+        isFree: bool = False
+        pattern = r"search_price.+\s+([fF]ree\s+[tT]o\s+[pP]lay)"
+        try:
+            if self.getValue(uid, pattern) is not None:
+                isFree = True
+        except:
+            pass
+        return isFree
+
+    def getPrice(self, uid: int) -> int:
+        price: int = 0
+        patterns = {
             r"search_price.+\s+(\d+\D+\d+[^<\s]+)",
-            r"search_price.+\s+([fF]ree\s+[tT]o\s+[pP]lay)",
             r"search_price.+\s+.+strike>(\d+\D+\d+[^<\s]+)"
-        ]
+        }
         for pattern in patterns:
             if price != "":
                 break
             try:
-                price = self.getValue(id, pattern)
+                result = self.getValue(uid, pattern)
+                if result is not None:
+                    if result.isdigit():
+                        price = result
             except:
                 pass
         return price
 
-    def getDiscountPrice(self, id: str) -> str:
-        discount_price = ""
+    def getDiscountPrice(self, uid: int) -> int:
+        discount_price: int = 0
         pattern = r"search_price.+\s+.+br>(\d+\D+\d+[^<\s]+)"
         try:
-            discount_price = self.getValue(id, pattern)
+            result = self.getValue(uid, pattern)
+            if result is not None:
+                if result.isdigit():
+                    discount_price = result
         except:
             pass
         return discount_price
 
-    def getDiscount(self, id: str) -> str:
+    def getDiscount(self, uid: int) -> str:
         discount = ""
         pattern = r"search_discount.+\s+.+(\-\d+%)"
         try:
-            discount = self.getValue(id, pattern)
+            discount = self.getValue(uid, pattern)
         except:
             pass
         return discount
