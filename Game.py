@@ -2,7 +2,7 @@ class Game:
     uid: int
     title: str
     isFree: bool
-    price: int
+    priceList: dict
     discountPrice: int
     discount: str
     platforms: tuple
@@ -11,14 +11,14 @@ class Game:
                  uid: int = 0,
                  title: str = "",
                  isFree: bool = False,
-                 price: int = 0,
+                 priceList: dict = None,
                  discountPrice: int = 0,
                  discount: str = "",
                  platforms: tuple = {}):
         self.uid = uid
         self.title = title
         self.isFree = isFree
-        self.price = price
+        self.priceList = priceList
         self.discountPrice = discountPrice
         self.discount = discount
         self.platforms = platforms
@@ -27,14 +27,14 @@ class Game:
         print("UID: %d, "
               "Title: %s, "
               "Is free: %s, "
-              "Price: %d, "
+              "Price: %s, "
               "Discount Price: %d, "
               "Discount: %s, "
               "Platforms: %s" % (
                   self.uid,
                   self.title,
                   self.isFree,
-                  self.price,
+                  self.priceList,
                   self.discountPrice,
                   self.discount,
                   self.platforms

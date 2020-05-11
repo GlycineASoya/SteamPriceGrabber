@@ -34,21 +34,24 @@ class DbConnector:
 
         query = ("SELECT "
                  "steam_uid, date_time, title, is_free, platforms "
-                 "FROM game"
-                 "WHERE steam_uid = %(uid)s"
+                 "FROM game "
+                 "WHERE steam_uid=%(uid)s"
                  )
 
         data = {
             'uid': uid
         }
+        try:
+            cursor.execute(query, data)
+            result = cursor.fetchone()
+            for (steam_uid, date_time, title, is_free, platforms) in cursor:
+                game = Game(steam_uid, title, is_free, 0, 0, 0, tuple(str(platforms).partition(',')))
+        except:
+            print(cursor.statement)
 
-        cursor.execute(query, data)
-
-        # cursor.execute("SELECT steam_uid, date_time, title, is_free, platforms FROM game WHERE steam_uid = 396420")
-        date = cursor.fetchall()
-        game = Game()
         cursor.close()
         return game
+
 
     def writeToDb(self, game: Game):
         cursor = self.__connector.cursor()
@@ -71,11 +74,14 @@ class DbConnector:
         self.__connector.commit()
         cursor.close()
 
+
     def connect(self):
         self.__connector.connect()
 
+
     def closeConnection(self):
         self.__connector.close()
+
 
     def checkConnection(self) -> bool:
         return self.__connector.is_connected()

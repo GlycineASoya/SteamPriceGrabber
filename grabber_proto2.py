@@ -6,23 +6,12 @@ from PageParser import PageParser
 page_parser = PageParser()
 db = DbConnector("127.0.0.1", "admin", "`123qwe", "steampricegrabber")
 
-if page_parser.isPageExist(page_parser.main_url + r"&page=1"):
-    page_parser.getPage(page_parser.main_url + r"&page=1")
-    page_parser.getAppList()
-    page_parser.getBundleList()
-    for app in page_parser.game_list:
-        game = Game(
-            uid=app,
-            title=page_parser.getTitle(app))
-        game.isFree = page_parser.isFree(app)
-        game.price = page_parser.getPrice(app)
-        game.discount = page_parser.getDiscount(app)
-        game.discount_price = page_parser.getDiscountPrice(app)
-        game.platforms = page_parser.getPlatformList(app)
-        game.printValues()
+#collect unchangable data of the game in one thread
+#collect prices in different thread
+for page in page_parser.last_page:
+    if page_parser.isqPageExist(page_parser.main_url + r"&page={:d}".format(page)):
         db.connect()
         if db.checkConnection():
-            db.writeToDb(game)
+            db.writeToDb()
             # db.getGameById(game.uid)
             db.closeConnection()
-        del game

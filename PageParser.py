@@ -4,15 +4,9 @@ import re
 
 
 class PageParser:
-    main_url: str = r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"  # &self.__page.
-
-    __page: requests.models.Response = None
-
-    game_list: list = list()
-
-    cc_price: list = list()
-
-    cc_list: list = sorted(
+    __main_url: str = r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"  # &self.__page.
+    last_page: int = 0
+    __cc_list: list = sorted(
         {"AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH",
          "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF",
          "BI", "CV", "KH", "CM", "CA", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CG", "CD", "CK", "CR",
@@ -32,10 +26,23 @@ class PageParser:
     def page(self):
         return self.__page
 
+    @property
+    def main_url(self):
+        return self.__page
+
+    @main_url.setter
+    def main_url(self, url: str):
+        self.__main_url = url
+
+    @property
+    def last_page(self):
+        return self.__last_page
+
     def __init__(self, url=r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"):
         self.main_url = url
+        self.__last_page = self.__getLastPage()
 
-    def isPageExist(self, url: str) -> bool:
+    def __isPageExist(self, url: str) -> bool:
         r = requests.head(url)
         if r.ok:
             return True
@@ -46,22 +53,22 @@ class PageParser:
         else:
             return False
 
-    def getValue(self, uid: int, pattern: str) -> str:
+    def __getValue(self, uid: int, pattern: str) -> str:
         string = self.__page.text.partition(r"<!-- List Items -->")[2].partition(str(uid))[2].partition(r"app/")[0]
         value = re.compile(pattern).search(string).group(1)
         value.lstrip().rstrip()
         return value
 
-    def getPage(self, url: str):
+    def __getPage(self, url: str) -> requests.models.Response:
         self.__page = requests.get(url, cookies={"birthtime": "0"})
 
-    def getBundleList(self):
-        bundles = list(re.compile(r"bundle[\/]([0-9]+)").findall(self.__page.text.partition(r"<!-- List Items -->")[2]))
-        self.game_list.extend(list(map(int, bundles)))
+    def __getBundleList(self, page: requests.models.Response) -> list:
+        bundles = list(re.compile(r"bundle[\/]([0-9]+)").findall(page.text.partition(r"<!-- List Items -->")[2]))
+        return list(map(int, bundles))
 
-    def getAppList(self):
-        apps = list(re.compile(r"app[\/]([0-9]+)").findall(self.__page.text.partition(r"<!-- List Items -->")[2]))
-        self.game_list.extend(list(map(int, apps)))
+    def __getAppList(self, page: requests.models.Response) -> list:
+        apps = list(re.compile(r"app[\/]([0-9]+)").findall(page.text.partition(r"<!-- List Items -->")[2]))
+        return list(map(int, apps))
 
     def getPlatformList(self, uid: int) -> tuple:
         platforms = []
@@ -86,23 +93,26 @@ class PageParser:
 
     def isFree(self, uid: int) -> bool:
         isFree: bool = False
-        pattern = r"search_price.+\s+([fF]ree\s+[tT]o\s+[pP]lay)"
-        try:
-            if self.getValue(uid, pattern) is not None:
-                isFree = True
-        except:
-            pass
-        return isFree
-
-    def getPrice(self, uid: int) -> int:
-        price: int = 0
         patterns = {
-            r"search_price.+\s+(\d+\D+\d+[^<\s]+)",
-            r"search_price.+\s+.+strike>(\d+\D+\d+[^<\s]+)"
+            r"search_price.+\s+([fF]ree\s+[tT]o\s+[pP]lay)",
+            r"search_price.+\s+([fF]ree\s+[dD]emo)"
         }
         for pattern in patterns:
-            if price != "":
-                break
+            try:
+                if self.getValue(uid, pattern) is not None:
+                    isFree = True
+            except:
+                pass
+        return isFree
+
+    # [^<\s]+
+    def __getPrice(self, uid: int) -> float:
+        price: float = 0
+        patterns = {
+            r"search_price.+\s+(\d+\D+\d+)",
+            r"search_price.+\s+.+strike>(\d+\D+\d+)"
+        }
+        for pattern in patterns:
             try:
                 result = self.getValue(uid, pattern)
                 if result is not None:
@@ -111,6 +121,21 @@ class PageParser:
             except:
                 pass
         return price
+
+    def getPriceList(self, uid: int) -> dict:
+
+        priceList: dict = {}
+        game_list: list
+
+        for countryCode in self.__cc_list:
+            page = self.__getPage(self.current_url + "&cc={:s}".format(countryCode))
+            game_list = [self.__getAppList(page), self.__getBundleList(page)]
+            for app in game_list:
+                if self.__isTheGame(app):
+                    price = self.__getPrice(uid)
+                    priceList[app] = {countryCode, price}
+
+        return priceList
 
     def getDiscountPrice(self, uid: int) -> int:
         discount_price: int = 0
@@ -132,3 +157,21 @@ class PageParser:
         except:
             pass
         return discount
+
+    def __isTheGame(self, uid: int) -> bool:
+        isTheGame: bool = False
+        string = self.__page.text
+        pattern = "app.+{:d}".format(uid)
+        try:
+            value = re.compile(pattern).search(string).group(1)
+            if value is not None:
+                isTheGame = True
+        except:
+            pass
+        return isTheGame
+
+    def __getLastPage(self) -> int:
+        pattern = r"nItemCount.+\s+(\d+);"
+        page = self.__getPage(self.main_url)
+        value = float(re.compile(pattern).search(page.string).group(1))
+        return int(round(value))
