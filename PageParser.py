@@ -5,7 +5,9 @@ import re
 
 class PageParser:
     __main_url: str = r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"  # &self.__page.
-    last_page: int = 0
+    __current_url: str = ""
+    __page = None
+    __last_page: int = 0
     __cc_list: list = sorted(
         {"AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH",
          "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF",
@@ -28,7 +30,7 @@ class PageParser:
 
     @property
     def main_url(self):
-        return self.__page
+        return self.__main_url
 
     @main_url.setter
     def main_url(self, url: str):
@@ -36,19 +38,26 @@ class PageParser:
 
     @property
     def last_page(self):
-        return self.__last_page
+        return self.__getLastPage()
 
     def __init__(self, url=r"http://store.steampowered.com/search/?ignore_preferences=1&sort_by=Name_ASC"):
         self.main_url = url
-        self.__last_page = self.__getLastPage()
 
-    def __isPageExist(self, url: str) -> bool:
+    def __getLastPage(self) -> int:
+        pattern = r"nItemCount.+\s+(\d+);"
+        self.__page = self.__getPage(self.main_url)
+        value = float(re.compile(pattern).search(self.__page.text).group(1))
+        return int(round(value))
+
+    def isPageExist(self, url: str) -> bool:
         r = requests.head(url)
         if r.ok:
+            self.__current_url = url
             return True
         elif url == r"http://store.steampowered.com/app/" and r.is_redirect:
             return False
         elif r.ok and r.is_redirect:
+            self.__current_url = url
             return True
         else:
             return False
@@ -60,7 +69,7 @@ class PageParser:
         return value
 
     def __getPage(self, url: str) -> requests.models.Response:
-        self.__page = requests.get(url, cookies={"birthtime": "0"})
+        return requests.get(url, cookies={"birthtime": "0"})
 
     def __getBundleList(self, page: requests.models.Response) -> list:
         bundles = list(re.compile(r"bundle[\/]([0-9]+)").findall(page.text.partition(r"<!-- List Items -->")[2]))
@@ -122,22 +131,23 @@ class PageParser:
                 pass
         return price
 
-    def getPriceList(self, uid: int) -> dict:
+    def getPriceList(self) -> dict:
 
         priceList: dict = {}
         game_list: list
 
         for countryCode in self.__cc_list:
-            page = self.__getPage(self.current_url + "&cc={:s}".format(countryCode))
-            game_list = [self.__getAppList(page), self.__getBundleList(page)]
+            page = self.__getPage(self.__current_url + "&cc={:s}".format(countryCode))
+            game_list = self.__getAppList(page)
+            game_list.extend(self.__getBundleList(page))
             for app in game_list:
-                if self.__isTheGame(app):
-                    price = self.__getPrice(uid)
-                    priceList[app] = {countryCode, price}
+                if self.__isTheGameOnPage(app):
+                    price = self.__getPrice(app)
+                    priceList[app] = {countryCode, {app, price}}
 
         return priceList
 
-    def getDiscountPrice(self, uid: int) -> int:
+    def __getDiscountPrice(self, uid: int) -> int:
         discount_price: int = 0
         pattern = r"search_price.+\s+.+br>(\d+\D+\d+[^<\s]+)"
         try:
@@ -149,7 +159,23 @@ class PageParser:
             pass
         return discount_price
 
-    def getDiscount(self, uid: int) -> str:
+    def getDiscountPriceList(self) -> dict:
+
+        discountPriceList: dict = {}
+        game_list: list
+
+        for countryCode in self.__cc_list:
+            page = self.__getPage(self.current_url + "&cc={:s}".format(countryCode))
+            game_list = self.__getAppList(page)
+            game_list.extend(self.__getBundleList(page))
+            for app in game_list:
+                if self.__isTheGameOnPage(app):
+                    price = self.__getDiscountPrice(app)
+                    discountPriceList[app] = {countryCode, {app, price}}
+
+        return discountPriceList
+
+    def __getDiscount(self, uid: int) -> str:
         discount = ""
         pattern = r"search_discount.+\s+.+(\-\d+%)"
         try:
@@ -158,20 +184,30 @@ class PageParser:
             pass
         return discount
 
-    def __isTheGame(self, uid: int) -> bool:
+    def getDiscountList(self) -> dict:
+
+        discountList: dict = {}
+        game_list: list
+
+        for countryCode in self.__cc_list:
+            page = self.__getPage(self.current_url + "&cc={:s}".format(countryCode))
+            game_list = self.__getAppList(page)
+            game_list.extend(self.__getBundleList(page))
+            for app in game_list:
+                if self.__isTheGameOnPage(app):
+                    discount = self.__getDiscount(app)
+                    discountList[app] = {countryCode, {app, discount}}
+
+        return discountList
+
+    def __isTheGameOnPage(self, uid: int) -> bool:
         isTheGame: bool = False
         string = self.__page.text
-        pattern = "app.+{:d}".format(uid)
+        pattern = r"app\/{:d}".format(uid)
         try:
-            value = re.compile(pattern).search(string).group(1)
+            value = re.compile(pattern).search(string)
             if value is not None:
                 isTheGame = True
         except:
             pass
         return isTheGame
-
-    def __getLastPage(self) -> int:
-        pattern = r"nItemCount.+\s+(\d+);"
-        page = self.__getPage(self.main_url)
-        value = float(re.compile(pattern).search(page.string).group(1))
-        return int(round(value))
